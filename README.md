@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![https://github-readme-stats.vercel.app/api?username=BryanAdamss&show_icons=true&count_private=true&include_all_commits=true&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api?username=BryanAdamss&show_icons=true&count_private=true&include_all_commits=true&layout=compact&theme=vue)
+
 **BryanAdamss/BryanAdamss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
