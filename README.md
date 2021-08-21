@@ -4,8 +4,6 @@
 
 **BryanAdamss/BryanAdamss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on front-end develop.
 - 📫 How to reach me: [github](https://github.com/BryanAdamss)、[掘金](https://juejin.cn/user/2154698519356206)
 
