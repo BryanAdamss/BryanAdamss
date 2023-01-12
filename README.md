@@ -43,20 +43,3 @@
   <a href="https://www.zhihu.com/people/BryanAdamss"><img src="https://img.shields.io/badge/-ZhiHu-000?logo=zhihu" alt="知乎"></a>
 </p>
 
-
-<p >
-    <a href="https://bryanadamss.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api?username=bryanadamss&theme=prussian&show_icons=true&count_private=true&hide_border=true" width="500px">
-  </a>
-</p>
-<p >
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanadamss&layout=compact&theme=prussian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanadamss&layout=compact&theme=prussian"  width="500px">
-  </a>
-</p>
-
-<p>
-  <a href="https://activity-graph.herokuapp.com/graph?username=bryanadamss&theme=github&hide_border=true">
-    <img src="https://activity-graph.herokuapp.com/graph?username=bryanadamss&theme=github&hide_border=true"  width="500px">
-  </a>
-</p>
