@@ -29,7 +29,8 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs&labelColor=000)
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
 
-![Nestjs](https://img.shields.io/badge/NuxtJs-000?&logo=NestJS&labelColor=000)
+![Nestjs](https://img.shields.io/badge/NestJs-000?&logo=NestJS&labelColor=000)
+![NuxtJs](https://img.shields.io/badge/NuxtJs-000?&logo=NuxtJs&labelColor=000)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=GraphQL&labelColor=000)
 
 
